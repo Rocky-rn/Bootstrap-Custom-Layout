@@ -1,0 +1,20 @@
+.header, .hero, .body, .bar, .footer {
+    background-color: teal;
+    margin-bottom: 13px;
+}
+
+.box {
+    margin: 13px 0;
+    height: 80px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+}
+
+.red {
+    background-color: lime;
+}
+
+.five {
+    background-color: blue;
+}
